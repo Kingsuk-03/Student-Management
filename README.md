@@ -55,9 +55,9 @@ Student-Management/
 );
  ```
 ## Project Setup
-1.Clone or download this repository.
-2.Add mysql-connector-j-x.x.x.jar to your project’s classpath.
-3.Update database credentials in the Java file:
+1. Clone or download this repository.
+2. Add mysql-connector-j-x.x.x.jar to your project’s classpath.
+3. Update database credentials in the Java file:
  ```java
    String url = "your_db_url";
    String user = "root";
