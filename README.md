@@ -1,11 +1,11 @@
-# Student Management System (Java + MySQL)
+# 👨🏻‍🎓 Student Management System (Java + MySQL)
 
 A console-based **Student Management System** built with **Java** and **MySQL**.  
 This project allows adding, viewing, updating, and deleting student records from a MySQL database.
 
 ---
 
-## Features
+## ✨Features
 - Add new students
 - View all students
 - Update student details
@@ -15,7 +15,7 @@ This project allows adding, viewing, updating, and deleting student records from
 
 ---
 
-## Technologies Used
+## 🛠️Technologies Used
 - **Java** (JDK 20+)
 - **MySQL** (Workbench / Server)
 - **JDBC Driver** (MySQL Connector/J)
@@ -38,7 +38,7 @@ Student-Management/
 └── README.md # Project description
 ```
 
-## Database Setup
+## 🛢Database Setup
 1. Open MySQL Workbench.
 2. Create the database(if needed):
 ```sql
